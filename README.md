@@ -2,7 +2,7 @@
 
 This is a continue project; The Level 2 project of Smart Voice Assistant with the exposure and use to the high voltage supply
 
-![image](https://user-images.githubusercontent.com/44058064/64141705-ad748e00-ce3b-11e9-9f3d-1eca407bd27b.png)
+![image](https://user-images.githubusercontent.com/44058064/68015617-7e5c8a80-fccd-11e9-917b-601429fa1f29.png)
 
 ## Relay Module
 ![image](https://user-images.githubusercontent.com/44058064/64141384-6b971800-ce3a-11e9-960e-1504ba796c0c.png)
